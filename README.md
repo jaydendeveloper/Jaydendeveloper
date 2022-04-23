@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaydendeveloper
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning React.js.
-- 💞️ I’m looking to collaborate on nothing D:
+- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: contact.jaydendev@gmail.com
 
 <!---
