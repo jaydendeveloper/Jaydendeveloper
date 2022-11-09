@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaydendeveloper
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning Next.js, Node.js, TypeScript.
 - 📫 How to reach me: contact.jaydendev@gmail.com
 
 <!---
