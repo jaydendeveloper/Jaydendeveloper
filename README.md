@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @jaydendeveloper, the developer being gtasaguesser.com and jaycp.app
+- 👋 Hi, I’m @jaydendeveloper, the developer behind gtasaguesser.com and jaycp.app
 - 📫 How to reach me: contact.jaydendev@gmail.com
